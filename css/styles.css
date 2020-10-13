@@ -1,23 +1,28 @@
 h1 {
-  color: blue;
+  color: black;
   text-align: center;
+  font-style: oblique;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
-  color: teal;
+  color: whitesmoke;
 }
 
 p {
   font-style: italic;
   text-align: center;
-  color: gray;
+  color:purple;
+  font-size: xx-large;
 }
 
 body {
   font-style: italic;
   text-align: left;
-  font-size: x-large;
-  background-color: skyblue;
+  font-size: xx-large;
+  background: rgb(155,172,32);
+  background: radial-gradient(circle, rgba(155,172,32,1) 1%, rgba(250,185,54,1) 53%);
 }
+
+
