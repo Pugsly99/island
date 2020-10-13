@@ -10,9 +10,14 @@ h2 {
 }
 
 p {
+  font-style: italic;
+  text-align: center;
   color: gray;
 }
 
 body {
+  font-style: italic;
+  text-align: left;
+  font-size: x-large;
   background-color: skyblue;
 }
